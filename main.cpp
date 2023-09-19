@@ -3,8 +3,7 @@
 using namespace std;
 
 int main(){
-    int x;
-    int y;
+    int x,y;
     char oper;
 
     cout << "input x:";
